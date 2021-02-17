@@ -1,5 +1,4 @@
-# Northwind
-<img src="https://user-images.githubusercontent.com/36550960/108275775-80c34c00-717f-11eb-9fc2-6f768118c808.png?raw=true"  width="50" height="50  image"/>
+# Northwind <img src="https://user-images.githubusercontent.com/36550960/108275775-80c34c00-717f-11eb-9fc2-6f768118c808.png?raw=true"  width="40" height="40  image"/>
 ## Introduction:
 Northwind, SQL Server için Microsoft tarafından oluşturulan database şemasıdır, orijinal Northwind https://northwinddatabase.codeplex.com/ adresinde depolanmıştır, ancak bu yakında sona erdirilecektir, bu nedenle burada bir yedekleme yapmaya değer.
 
