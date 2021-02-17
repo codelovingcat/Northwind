@@ -6,7 +6,7 @@ Northwind, SQL Server için Microsoft tarafından oluşturulan Database şeması
 1. http://www.bradoncode.com/tutorials/learn-mean-stack-tutorial/ 
 2. https://github.com/tmcnab/northwind-mongo
   SQL'den CSV'ye ve ardından mongoDB'ye dönüştürün
-3. https://github.com/dalers/mywind <== mysql formatına dönüştürüldü (Benim için çalıştı)
+3. https://github.com/dalers/mywind  mysql formatına dönüştürüldü (Benim için çalıştı)
 
 
 ## Database Schema
@@ -19,6 +19,6 @@ Dosyayı açın / sıkıştırmasını açın, ardından veritabanını geri yü
 Northwind.sql.zip - - Sql Server 2005 ve 2008 için Northwind veritabanı oluşturma komut dosyası.
 Ardından Sql Sunucunuzda northwind adlı bir veritabanı oluşturun.
 Dosyayı açın / sıkıştırmasını açın, ardından sql dosyasını Sql Server Management Studio 2005 / 2008'de açın ve F5'e basın.
-VEYA
-aşağıdaki komutu çalıştırın (örnek)
+VEYA aşağıdaki komutu çalıştırın (örnek)
+
 sqlcmd -S Localhost -d Northwind -i D:\Sql\Northwind.sql
