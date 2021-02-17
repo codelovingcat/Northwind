@@ -22,3 +22,6 @@ Dosyayı açın / sıkıştırmasını açın, ardından sql dosyasını Sql Ser
 VEYA aşağıdaki komutu çalıştırın (örnek)
 
 sqlcmd -S Localhost -d Northwind -i D:\Sql\Northwind.sql
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/36550960/108242951-34174b00-7156-11eb-8d08-851cb10ff56c.gif?raw=true"  width="400" height="400  image"/> 
+</p>
