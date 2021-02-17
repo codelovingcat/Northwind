@@ -7,10 +7,10 @@ Northwind, SQL Server için Microsoft tarafından oluşturulan Database şeması
 2. https://github.com/tmcnab/northwind-mongo
   SQL'den CSV'ye ve ardından mongoDB'ye dönüştürün
 3. https://github.com/dalers/mywind <== mysql formatına dönüştürüldü (Benim için çalıştı)
-4. 
 
-## DB Schema
-   ![Alt](/images/Northwind.png "Title")
+
+## Database Schema
+  ![Northwind](https://user-images.githubusercontent.com/36550960/108241138-2f519780-7154-11eb-9bd4-010e6972155a.png)
    
 ## https://northwinddatabase.codeplex.com/releases/view/71634
 Northwind.bak.zip - Sql Server 2005 ve 2008 için Northwind veritabanı yedeklemesi.
