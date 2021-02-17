@@ -1,6 +1,6 @@
 # NorthWind
 ## Introduction:
-Northwind, SQL Server için Microsoft tarafından oluşturulan Database şemasıdır, orijinal NorthWind https://northwinddatabase.codeplex.com/ adresinde depolanmıştır, ancak bu yakında sona erdirilecektir, bu nedenle burada bir yedekleme yapmaya değer.
+Northwind, SQL Server için Microsoft tarafından oluşturulan database şemasıdır, orijinal Northwind https://northwinddatabase.codeplex.com/ adresinde depolanmıştır, ancak bu yakında sona erdirilecektir, bu nedenle burada bir yedekleme yapmaya değer.
 
 ## Referanslar
 1. http://www.bradoncode.com/tutorials/learn-mean-stack-tutorial/ 
